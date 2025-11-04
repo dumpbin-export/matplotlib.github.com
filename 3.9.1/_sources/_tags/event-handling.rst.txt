@@ -1,8 +1,0 @@
-All tags: event-handling
-########################
-
-.. toctree::
-    :maxdepth: 1
-    :caption: With this tag
-
-    ../gallery/event_handling/resample.rst
